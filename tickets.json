@@ -1,0 +1,31 @@
+{
+    "Panel": {
+        "title": "Atendimento",
+        "description": "Caso precise de suporte ou tem alguma duvida,\nnão hesite, abra um ticket.",
+        "bannerURL": "https://cdn.discordapp.com/attachments/1339528044075028481/1339528152602378304/GIF-Banner-scadean.gif?ex=67f78ece&is=67f63d4e&hm=ac50e432043efbc4305e8b4f39f6fd8e20348d279f992181e776edcf183296ae&",
+        "iconURL": "",
+        "funcoes": [
+            {
+                "id": "3703961388397418",
+                "title": "zeca",
+                "desc": "zecquinha",
+                "emoji": "1276564803762258082"
+            },
+            {
+                "id": "72R3464N902099LL",
+                "title": "juca",
+                "desc": "1953",
+                "emoji": "1276564803762258082"
+            }
+        ],
+        "announce": [
+            {
+                "msgid": "1359596242799300628",
+                "channelid": "1359595139529576518",
+                "guildid": "1237964869345738772"
+            }
+        ]
+    },
+    "tickets": {
+    }
+}
